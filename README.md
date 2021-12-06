@@ -30,5 +30,5 @@
 
 # Решение 
 
-[Смотри приложенный Jupyter Notebook](catboost_clear_Milenkin.ipynb)
+[Смотри приложенный Jupyter Notebook](top_2_solution_Milenkin.ipynb)
 
