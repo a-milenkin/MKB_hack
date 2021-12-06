@@ -1,7 +1,3 @@
-# Лекция 1
-
-[Ссылка на Jupyter Notebook](lessons/1_lesson.ipynb)
-
 # Задача хакатона
 Спрогнозировать вероятность невыполнения
 контракта поставщиком
@@ -26,4 +22,5 @@
 
 # Решение 
 
-Смотри приложенный Jupyter Notebook
+[Смотри приложенный Jupyter Notebook](catboost_clear_Milenkin.ipynb)
+
