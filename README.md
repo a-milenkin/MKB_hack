@@ -30,8 +30,8 @@
 
 # Решение 
 
-[Ссылка на Google Colab](https://colab.research.google.com/drive/1xTdTqRrgb6j-tTkp8-L0XyBWw-z6mWX0?usp=sharing)
-[Приложенный Jupyter Notebook](top_2_solution_Milenkin.ipynb)
+* [Ссылка на Google Colab](https://colab.research.google.com/drive/1xTdTqRrgb6j-tTkp8-L0XyBWw-z6mWX0?usp=sharing)
+* [Приложенный Jupyter Notebook](top_2_solution_Milenkin.ipynb)
 
 Замечание: Лучше скачать и открыть локально. На GitHub открывается не совсем корректно. 
 
