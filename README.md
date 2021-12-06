@@ -25,7 +25,7 @@
 
 # Результат 
 
-[Смотри приложенный Jupyter Notebook](/images/top6.PNG)
+[./images/top6.PNG](./images/top6.PNG)
 
 # Решение 
 
