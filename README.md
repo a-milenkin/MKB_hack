@@ -1,4 +1,4 @@
-[Смотри приложенный Jupyter Notebook](/images/mkb.PNG)
+[![Code style: black](/images/mkb.PNG)](https://github.com/psf/black)
 
 # Задача хакатона
 Спрогнозировать вероятность невыполнения
@@ -25,7 +25,8 @@
 
 # Результат 
 
-[./images/top6.PNG](./images/top6.PNG)
+[![Code style: black](/images/top6.PNG)](https://github.com/psf/black)
+
 
 # Решение 
 
