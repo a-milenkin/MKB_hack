@@ -25,7 +25,7 @@
 
 # Результат 
 
-[![Code style: black](/images/top6.PNG)](https://github.com/psf/black)
+[![Code style: black](/images/top_6.PNG)](https://github.com/psf/black)
 
 
 # Решение 
